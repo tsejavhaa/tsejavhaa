@@ -19,3 +19,7 @@ Python • PyTorch • TensorFlow • OpenCV • PostgreSQL • ChromaDB • Oll
 
 ## 📫 Connect
 LinkedIn: https://linkedin.com/in/javkhlantugs-tse
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsejavhaa&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsejavhaa&layout=compact&theme=dark)
