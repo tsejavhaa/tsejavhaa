@@ -1,4 +1,4 @@
-# Hi, I'm Tse Javhaa 👋
+# Hi, I'm Javhaa Tse 👋
 
 Machine Learning Engineer building NLP, Computer Vision and RAG systems.
 
