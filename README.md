@@ -3,7 +3,7 @@
 Machine Learning Engineer building NLP, Computer Vision and RAG systems.
 
 ## 🚀 About Me
-- 🧠 Former physician → AI Engineer
+- 🧠 AI Engineer
 - 🤖 Focused on LLMs, RAG and Vision AI
 - 🌏 Building Mongolian-language AI systems
 - ⚙️ PyTorch, TensorFlow, Python
@@ -15,7 +15,7 @@ Machine Learning Engineer building NLP, Computer Vision and RAG systems.
 - 🎤 ASR & Speech AI experiments
 
 ## 🛠 Tech Stack
-Python • PyTorch • TensorFlow • OpenCV • PostgreSQL • ChromaDB • Ollama
+Python • PyTorch • TensorFlow • OpenCV • PostgreSQL • MongoDB • Pinecone • Weaviate • Ollama 
 
 ## 📫 Connect
 LinkedIn: https://linkedin.com/in/javkhlantugs-tse
